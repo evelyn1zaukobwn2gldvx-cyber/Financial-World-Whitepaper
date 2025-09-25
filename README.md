@@ -4,7 +4,7 @@ description: Here, we don’t build fleeting illusions—we build lasting system
 
 # Welcome to Financial World
 
-<figure><img src=".gitbook/assets/Financial World Core Loop.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Financial World Core Loop.jpg" alt=""><figcaption></figcaption></figure>
 
 \
 \
