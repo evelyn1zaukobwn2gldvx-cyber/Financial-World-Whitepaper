@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📈 Welcome to Financial World](README.md)
+* [📈 Welcome to Financial WorldFinancial World](README.md)
 * [🏰 Your Business Empire · Core Assets](your-business-empire-core-assets/README.md)
   * [Core Gameplay Loop](your-business-empire-core-assets/core-gameplay-loop.md)
   * [Land & Staff](your-business-empire-core-assets/land-and-staff/README.md)
