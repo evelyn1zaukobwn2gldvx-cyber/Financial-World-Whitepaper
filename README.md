@@ -2,7 +2,7 @@
 description: Here, we don’t build fleeting illusions—we build lasting systems.
 ---
 
-# Welcome to Financial World
+# 📈 Welcome to Financial World
 
 <figure><img src=".gitbook/assets/Financial World Core Loop.jpg" alt=""><figcaption></figcaption></figure>
 

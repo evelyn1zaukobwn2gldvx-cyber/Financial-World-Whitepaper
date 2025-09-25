@@ -1,4 +1,4 @@
-# $CASH Economics · A System Built to Last
+# 💵 $CASH Economics · A System Built to Last
 
 Many blockchain games struggle to escape the death spiral of "early inflation followed by eventual collapse." In _Financial World_, our primary design principle is not "how to make money from nothing," but rather **"how to create a sustainable economic loop with genuine, intrinsic sinks."**
 
