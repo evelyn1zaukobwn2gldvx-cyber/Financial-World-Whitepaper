@@ -1,13 +1,11 @@
 ---
-description: Your Asset Foundation
+description: The Starting Point of Everything
 ---
 
-# Land & Staff
+# Land
 
-<figure><img src="../.gitbook/assets/Financial World Land Assets Overview (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+Land is the essential foundation for all your operations. Without land, you cannot begin production.\
 
-**Land: The Starting Point of Everything**\
-Land is the essential foundation for all your operations. Without land, you cannot begin production.
 
 **Rules:**
 
@@ -26,10 +24,3 @@ Land is the essential foundation for all your operations. Without land, you cann
 **Core Value of Land (Upgradable from Lv1 to Lv3):**\
 The strength of land lies in its three core attributes, which enhance as you upgrade.\
 \
-
-
-**Staff: Your Core Workforce**
-
-Staff are the "atomic units" of your empire—the direct instruments that transform capital into profit.
-
-**Recruitment:** 100 $CASH per person. This is a one-time recruitment fee. Once hired, staff permanently join your talent pool and can be deployed indefinitely.
