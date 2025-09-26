@@ -21,7 +21,7 @@ When the timer hits zero, the prize pool is distributed as follows:
 
 1. **👑 Final Winner: 55%!** – The last player to successfully purchase a share claims the largest portion of the pool.
 2. **All Shareholders: 30%!** – Every player who purchased shares in the round shares 30% of the pool, proportional to their holdings.
-3. **Ecosystem Contribution: 15%** – 10% funds project development, and 5% is seeded directly into the next round's prize pool.
+3. **Ecosystem Contribution: 15% – 10%** funds project development, and 5% is seeded directly into the next round's prize pool.
 
 **• Built-in Deflation:**\
 10% of the $CASH used for each IPO share purchase is permanently burned and does not enter the prize pool, directly enhancing the value of $CASH.
